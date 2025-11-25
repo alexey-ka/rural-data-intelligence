@@ -8,7 +8,7 @@ The most recent version of the framework is deployed under the following
 
 > [!WARNING]
 > regional access restrictions may apply  
-renam
+
 ![Demo UI screenshot](docs/demo_ui.png)
 
 # Guideline
@@ -28,4 +28,5 @@ To be published after refactoring.
 ![D3.js](https://img.shields.io/badge/D3.JS-%23000000?style=for-the-badge&logo=D3&logoColor=#ff823e)
 ## Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
