@@ -12,7 +12,7 @@ The most recent version of the framework is deployed under the following
 ![Demo UI screenshot](docs/demo_ui.png)
 
 # Guideline
-![Framework guideline](docs/guideline.jpg)
+![Framework guideline](docs/guideline.png)
 
 ## Overview  
 Video demo of the framework functionality
@@ -30,3 +30,4 @@ To be published after refactoring.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
