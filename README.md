@@ -5,7 +5,7 @@
 # Deployed Demo
 The most recent version of the framework is deployed under the following link
 
-<a href="https://smartera.scch.at/"><img src="https://github.com/user-attachments/assets/3f7d50d0-c761-44b6-8af1-4c5866699d8f" alt="Demo video" width="240"></a>
+<a href="https://smartera.scch.at/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/3f7d50d0-c761-44b6-8af1-4c5866699d8f" alt="Demo video" width="240"></a>
 
 > [!WARNING]
 > regional access restrictions may apply  
@@ -31,6 +31,7 @@ To be published after refactoring.
 ## Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 
 
 
