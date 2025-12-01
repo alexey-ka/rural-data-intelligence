@@ -3,8 +3,9 @@
 ![Urban Data Inteligence](docs/icon.png)
 
 # Deployed Demo
-The most recent version of the framework is deployed under the following 
-<a href="https://smartera.scch.at/" style="color: #F16948; text-decoration: underline;text-decoration-style: underscore;">URL</a>
+The most recent version of the framework is deployed under the following link
+
+<a href="https://youtu.be/pVD0aRgOIY8"><img src="https://github.com/user-attachments/assets/3f7d50d0-c761-44b6-8af1-4c5866699d8f" alt="Demo video" width="240"></a>
 
 > [!WARNING]
 > regional access restrictions may apply  
@@ -14,10 +15,11 @@ The most recent version of the framework is deployed under the following
 # Guideline
 ![Framework guideline](docs/guideline.png)
 
-## Overview  
-Video demo of the framework functionality
+## Overview  ![Uploading demo_link2.png…]()
 
-<a href="https://youtu.be/pVD0aRgOIY8"><img src="docs/videoplay.png" alt="Demo video" width="320"></a>
+Video demo of the framework functionality 🔗
+
+<a href="https://youtu.be/pVD0aRgOIY8"><img src="docs/videoplay.png" alt="Demo video" width="640"></a>
 # Source code  
 To be published after refactoring.  
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/traffic-road-sign/under-construction-sign-icon.png" width="150">
@@ -28,6 +30,6 @@ To be published after refactoring.
 ![D3.js](https://img.shields.io/badge/D3.JS-%23000000?style=for-the-badge&logo=D3&logoColor=#ff823e)
 ## Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 
