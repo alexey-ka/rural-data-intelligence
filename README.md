@@ -15,7 +15,7 @@ The most recent version of the framework is deployed under the following link
 # Guideline
 ![Framework guideline](docs/guideline.png)
 
-## Overview  ![Uploading demo_link2.png…]()
+## Overview
 
 Video demo of the framework functionality 🔗
 
@@ -31,6 +31,7 @@ To be published after refactoring.
 ## Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 
 
 
