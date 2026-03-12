@@ -2,6 +2,11 @@
 
 ![Urban Data Inteligence](docs/icon.png)
 
+## Overview
+
+Video demo of the framework functionality 🔗
+
+<a href="https://youtu.be/pVD0aRgOIY8"><img src="docs/videoplay.png" alt="Demo video" width="640"></a>
 # Deployed Demo
 The most recent version of the framework is deployed under the following link
 
@@ -15,11 +20,6 @@ The most recent version of the framework is deployed under the following link
 # Guideline
 ![Framework guideline](docs/guideline.png)
 
-## Overview
-
-Video demo of the framework functionality 🔗
-
-<a href="https://youtu.be/pVD0aRgOIY8"><img src="docs/videoplay.png" alt="Demo video" width="640"></a>
 # Source code  
 To be published after refactoring.  
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/traffic-road-sign/under-construction-sign-icon.png" width="150">
@@ -31,6 +31,7 @@ To be published after refactoring.
 ## Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 
 
 
